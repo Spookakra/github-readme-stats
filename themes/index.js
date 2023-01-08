@@ -374,6 +374,13 @@ export const themes = {
     border_color: "170F0C",
     bg_color: "170F0C",
   },
+  frog_prince: {
+    title_color: "F0505C",
+    text_color: "000000",
+    icon_color: "00B47D",
+    border_color: "FAFAF0",
+    bg_color: "FAFAF0",
+  },
 };
 
 export default themes;
